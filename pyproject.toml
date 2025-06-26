@@ -10,6 +10,7 @@ dependencies = [
     "bitsandbytes-cuda112>=0.26.0.post2",
     "datasets>=3.6.0",
     "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.7",
     "peft>=0.15.2",
     "transformers>=4.52.4",
 ]
